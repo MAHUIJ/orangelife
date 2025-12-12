@@ -1,0 +1,7 @@
+{
+  "name": "Orange Global Life",
+  "description": "Your administrative companion for settling in France. Fast-track your eSIM, Banking, CAF, and Ameli setup.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
